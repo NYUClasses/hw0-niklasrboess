@@ -9,6 +9,11 @@
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
+# My First Github Assignment
+
+1. **Niklas Boess**
+1. _Mads og Monopolet_
+1. [Repository](https://github.com/niklasrboess?tab=repositories)
 
 
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
@@ -18,9 +23,9 @@
 It should look something like this: 
 
 1. Name:
-  * Arnon Lieber
+  * **Niklas Boess**
 2. 
-  * 
+  * _Mads og Monopolet_
 3. 
 
 Once you are done, commit your changes, and push to GitHub. 
